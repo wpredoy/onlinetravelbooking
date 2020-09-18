@@ -1,0 +1,16 @@
+.cardStyle {
+    width: 320px;
+    border-radius: 28px;
+    transition: 1s;
+    position: relative;
+    border: 5px solid gold;
+    margin-top: 130px;
+    cursor: pointer;
+}
+.cardbodystyle {
+    position: absolute;
+    bottom: 5%;
+}
+.cardbodystyle h4 {
+    color: white;
+}

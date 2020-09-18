@@ -1,0 +1,31 @@
+.traveldetailstyle {
+    margin-top: 150px;
+}
+.sportdetaistyle h1 {
+    font-size: 50px;
+    color: tomato;
+    text-align: center;
+}
+.sportdetaistyle p {
+    text-align: justify;
+    font-size: 15px;
+    padding: 0 10px;
+}
+.bookingStyle {
+    width: 250px;
+    height: 40px;
+    border: none;
+    background-color: goldenrod;
+    font-size: 20px;
+    border-radius: 5px;
+    outline: none;
+}
+.bookingStyle:hover {
+    outline: none;
+}
+.fromStyle {
+    background-color: lightgray;
+    padding: 20px;
+    border-radius: 10px;
+    margin-left: 15px;
+}

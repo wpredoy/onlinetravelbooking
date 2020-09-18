@@ -1,0 +1,11 @@
+.nav-link {
+    margin: 0 10px;
+}
+.buttonStyle {
+    border: none;
+    background-color: goldenrod;
+    margin-top: 6px;
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+}

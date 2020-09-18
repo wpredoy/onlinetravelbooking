@@ -1,0 +1,50 @@
+.loginfromStyle {
+    border-radius: 10px;
+    margin: auto;
+    border: 1px solid lightgray;
+}
+.loginStyle {
+    text-align: center;
+    margin-top: 250px;
+}
+.inputType {
+    width: 100%;
+    padding: 10px 10px;
+    margin-bottom: 10px;
+    border: none;
+    background-color: transparent;
+    border-bottom: 1px solid lightgray;
+}
+.inputType:focus {
+    outline: none;
+}
+.headerLogin {
+    text-align: left;
+    padding: 40px 0;
+    font-size: 40px;
+}
+.buttonType {
+    width: 100%;
+    margin: 25px 0 25px 0;
+    padding: 10px 0;
+    border: none;
+    background-color: transparent;
+    background-color: goldenrod;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.buttonType:focus {
+    outline: none;
+}
+.twinButtonStyle {
+    width: 350px;
+    margin: 5px 0 20px 0;
+    padding: 10px 0;
+    border: none;
+    background: transparent;
+    border: 1px solid lightgray;
+    border-radius: 30px;
+}
+.twinButtonStyle:focus {
+    outline: none;
+}
